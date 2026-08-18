@@ -85,23 +85,23 @@ The uploaded specification explicitly defines this separation and requires numer
 
 # 4. Project Objectives
 
-## O1 — Low Barrier to Entry
+## O1 - Low Barrier to Entry
 
 Reduce the expertise barrier from requiring a site engineer for an initial assessment to a guided digital consultation.
 
-## O2 — Auditable Results
+## O2 - Auditable Results
 
 Ensure that energy, system sizing, component, cost, and payback results originate from explicit calculation logic.
 
-## O3 — Rapid Deployment
+## O3 - Rapid Deployment
 
 Provide a full-stack reference implementation using FastAPI and React that can be run locally with a relatively small setup process.
 
-## O4 — Rigorous Documentation
+## O4 - Rigorous Documentation
 
 Maintain academic-standard technical documentation, architecture diagrams, repository structure, contribution rules, and development methodology.
 
-## O5 — Repeatable AI Lifecycle
+## O5 - Repeatable AI Lifecycle
 
 Demonstrate the Agentic Engineering Development Lifecycle (AEDL) through a structured six-week development process.
 
