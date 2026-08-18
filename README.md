@@ -20,7 +20,7 @@ The system combines a conversational AI agent with deterministic engineering cal
 | Student 1          | Md. Sayem Hossian - 220217                                          |
 | Student 2          | Razu Sarder - 220220                                                |
 | Supervisor         | Dr. Kazi Masudul Alam, Professor, CSE Discipline, Khulna University |
-| Documentation Date | August 17, 2026                                                     |
+| Documentation Date | August 18, 2026                                                     |
 
 The original project documentation identifies the project as a CSE 4202 deliverable and assigns the project to the two listed students under the stated supervisor.
 
