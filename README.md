@@ -16,9 +16,9 @@ The system combines a conversational AI agent with deterministic engineering cal
 | Course Title       | Web Programming & Mobile Application Development                    |
 | Institution        | Computer Science & Engineering Discipline, Khulna University        |
 | Project            | SolarAgent Pro                                                      |
-| Deliverable        | Week 1 Deliverable — Initiation & SRS                               |
-| Student 1          | Md. Sayem Hossian — 220217                                          |
-| Student 2          | Razu Sarder — 220220                                                |
+| Deliverable        | Week 1 Deliverable - Initiation & SRS                               |
+| Student 1          | Md. Sayem Hossian - 220217                                          |
+| Student 2          | Razu Sarder - 220220                                                |
 | Supervisor         | Dr. Kazi Masudul Alam, Professor, CSE Discipline, Khulna University |
 | Documentation Date | August 17, 2026                                                     |
 
